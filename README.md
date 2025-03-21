@@ -4,4 +4,4 @@
 Xampp
 Visual Studio Code
 
-Thanks to our Sir. Gerome Lagutan to do this project
+Thanks to our Sir. Gerome Lagutan to help us 
